@@ -19,7 +19,7 @@ cat ~/.ssh/id_rsa.pub
 
 ```bash
 # Cloning the source code
-git clone https://github.com/ldynia/flask-sherlock.git
+git clone https://github.com/shivkanwer/flask-sherlock.git
 cd flask-sherlock
 
 # Building and running docker container
